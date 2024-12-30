@@ -6,7 +6,7 @@
   "importOrderCaseInsensitive": true,
   "importOrderParserPlugins": [
     "classProperties",
-    "decoration-legacy",
+    "decorators-legacy",
     "typescript"
   ],
   "importOrder": ["<THIRD_PARTY_MODULES>", "^@/(.*)$", "^../(.*)", "^./(.*)"],
